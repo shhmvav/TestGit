@@ -1,3 +1,3 @@
 # TestGit
-This is for installing git
+Testing the first commit.
 \
